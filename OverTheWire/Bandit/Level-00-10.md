@@ -1,4 +1,4 @@
-<img width="580" height="235" alt="image" src="https://github.com/user-attachments/assets/2c4039bc-e0de-40a0-ae46-d1f855718463" /><img width="509" height="137" alt="image" src="https://github.com/user-attachments/assets/c2c3ea59-3112-4ae3-bf63-c88109d4094a" /># OverTheWire Bandit — Niveles 0 al 10
+# OverTheWire Bandit — Niveles 0 al 10
 
 ## Nivel 0 → 1
 
